@@ -1,0 +1,28 @@
+name: Tom Cotter
+favicon: null
+layout_spectrum: 0.21812948235310614
+typography_spectrum: 0.9960141028277576
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9796293452382088
+  lightness: 0.719074415974319
+  saturation: 0.10944679146632552
+  rhythmicContrast: 0.3295522974804044
+purpose: []
