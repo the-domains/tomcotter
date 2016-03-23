@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tom Cotter]]></title>
+        <description><![CDATA[Tom Cotter]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Mar 2016 23:24:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HUMAN PERFORMANCE v2.0
+]]></title>
+            <description><![CDATA[<article><h1>HUMAN PERFORMANCE v2.0
+</h1><p> Upgraded Salesperson® takes sales professionals and coaches them how to upgrade their biochemistry, their body, and their mind so they work in sync, helping them execute at levels far beyond what they’d expect.
+Be what you want to become.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb71e49c-ec11-4a6b-aedc-838281a93fd3.png"></article>]]></description>
+            <link>undefinedhuman-performance-v20/index.html</link>
+            <guid isPermaLink="false">cb436f5a-2904-427f-8d80-2f87ac810af9</guid>
+            <pubDate>Wed, 23 Mar 2016 23:23:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
