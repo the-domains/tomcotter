@@ -1,7 +1,7 @@
 name: Tom Cotter
 favicon: null
-layout_spectrum: 0.21812948235310614
-typography_spectrum: 0.9960141028277576
+layout_spectrum: 0.24617
+typography_spectrum: 0.5017
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.9796293452382088
+  brandStrength: 0.5
   lightness: 0.719074415974319
-  saturation: 0.10944679146632552
-  rhythmicContrast: 0.3295522974804044
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
